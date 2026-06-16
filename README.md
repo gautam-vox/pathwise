@@ -21,11 +21,13 @@ A city guide and navigation app for Android, based on Flutter. View recommended 
 ## REQUIREMENTS
 ### Dependencies
 - [Flutter](https://docs.flutter.dev/install/quick): Android Development, and for future cross-platform availability. Ensure it is correctly installed:
-
-    `flutter doctor`
+```
+flutter doctor
+```
 - [Python](https://www.python.org/downloads/): Makes use of `flask` for backend integration. Install `flask` through _pip_.
-
-    `python -m pip install flask`
+```
+python -m pip install flask
+```
 
 ### Tools
 - [VS Code](https://code.visualstudio.com/download): Code editor, but any other editor can be used as well, [with some configurations](https://docs.flutter.dev/install/manual). 
@@ -56,11 +58,11 @@ ipconfig
 ```
 ipAddress = 'YOUR_IP_ADDRESS'
 ```
-- In a seperate terminal, navigate to the _backend_ directory and start the backend server:
+- In a seperate terminal, navigate to the _"backend"_ directory and start the backend server:
 ```
 python app.py
 ```
-- In the first terminal, within the _frontend_ directory, build and run the app:
+- In the first terminal, within the _"frontend"_ directory, build and run the app:
 ```
 flutter run
 ```
