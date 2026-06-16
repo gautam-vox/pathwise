@@ -11,14 +11,14 @@ A city guide and navigation app for Android, based on Flutter. View recommended 
 - [Flutter](https://docs.flutter.dev/install/quick): Android Development, and for future cross-platform availability. Ensure it is correctly installed:
 
     `flutter doctor`
-- [Python](https://www.python.org/downloads/): Makes use of Flask for backend integration. Install flask through _pip_.
+- [Python](https://www.python.org/downloads/): Makes use of `flask` for backend integration. Install `flask` through _pip_.
 
     `python -m pip install flask`
 
 ### Tools
 - [VS Code](https://code.visualstudio.com/download): Code editor, but any other editor can be used as well, [with some configurations](https://docs.flutter.dev/install/manual). 
 - [Android Studio](https://developer.android.com/studio): For Android SDK and optionally for using AVDs (Android Virtual Devices).
-- [SQLite DB Viewer](https://sqlitebrowser.org/dl/): Optional, but any other SQLite can be used as well.
+- [SQLite DB Viewer](https://sqlitebrowser.org/dl/): Optional, but any other SQLite viewer can be used as well.
 
 ## BUILD
 - Clone the repository.
