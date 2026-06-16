@@ -33,33 +33,37 @@ A city guide and navigation app for Android, based on Flutter. View recommended 
 - [SQLite DB Viewer](https://sqlitebrowser.org/dl/): Optional, but any other SQLite viewer can be used as well.
 
 ## BUILD
-- Clone the repository.
-
-    `git clone https://github.com/gautam-vox/pathwise`
+- Clone this repository.  
+```
+git clone https://github.com/gautam-vox/pathwise
+```
 - In your code editor, navigate to the location where you cloned the repository.
 - In one terminal, navigate to the _"frontend"_ directory and check for dependencies:
-
-    `flutter pub get`
-
-    Don't update any new packages that would break dependency.
+```
+flutter pub get
+```
+> [!WARNING]
+> Don't update any packages above required versions, that would break the dependencies.
 
 > [!NOTE]
-> Being a local application, the current IP Address must be provided manually to the script. This will be changed in the near future.
-- Note your current IP address (under IPv4):
-
-    `ipconfig`
-- Open the following file in your editor:
-
-    ***"...frontend/lib/globals.dart"***
+> Being a local application, the current IP Address must be provided manually to the script (see below). This will be changed in the near future.
+- In the terminal, find your current IP address (under IPv4) by running:
+```
+ipconfig
+```
+- Open the globals file in your editor, find it at ***"...frontend/lib/globals.dart"***.
 - Save your IP Address into the ipAddress global variable, within quotes.
-
-    `ipAddress = 'YOUR_IP_ADDRESS'`
+```
+ipAddress = 'YOUR_IP_ADDRESS'
+```
 - In a seperate terminal, navigate to the _backend_ directory and start the backend server:
-
-    `python app.py`
+```
+python app.py
+```
 - In the first terminal, within the _frontend_ directory, build and run the app:
-
-    `flutter run`
+```
+flutter run
+```
 
 ## LICENSE
 This repo and its contents are provided under the [GNU General Public License v2.0](https://github.com/gautam-vox/pathwise/blob/main/LICENSE)
