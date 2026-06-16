@@ -37,7 +37,8 @@ A city guide and navigation app for Android, based on Flutter. View recommended 
 
     `ipconfig`
 - Open the following file in your editor:
-    _"...frontend/lib/globals.dart"_
+
+    ***"...frontend/lib/globals.dart"***
 - Save your IP Address into the ipAddress global variable, within quotes.
 
     `ipAddress = 'YOUR_IP_ADDRESS'`
