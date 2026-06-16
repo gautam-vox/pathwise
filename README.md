@@ -11,7 +11,7 @@ A city guide and navigation app for Android, based on Flutter. View recommended 
 - [Flutter](https://docs.flutter.dev/install/quick): Android Development, and for future cross-platform availability. Ensure it is correctly installed:
 
     `flutter doctor`
-- [Python](https://www.python.org/downloads/): Makes use of Flask for backend integration. Install it through _pip_.
+- [Python](https://www.python.org/downloads/): Makes use of Flask for backend integration. Install flask through _pip_.
 
     `python -m pip install flask`
 
