@@ -1,0 +1,103 @@
+{
+    "appTitle": "Pathwise",
+    "login": "Login",
+    "username" : "Username",
+    "password": "Password",
+    "noAccount": "Don't have an account? Register",
+
+    "registration": "Registration",
+    "fullName": "Full Name",
+    "email": "Email Address",
+
+    "visitPurpose": "Purpose of Visit",
+    "tourism": "Tourism",
+    "family": "Family Visit",
+    "education": "Education",
+    "adventure": "Adventure",
+
+    "age": "Age Group",
+
+    "poi": "Points of Interest",
+    "nature": "Nature",
+    "hills": "Hills",
+    "forests": "Forests",
+    "waterfalls": "Waterfalls",
+
+    "hotel": "Hotel",
+    "Resorts": "Resorts",
+    "Budget Stays",
+    "Homestays",
+
+    "Taxi",
+    "Car",
+    "Bus Tranport",
+
+    "Food",
+    "Cafes",
+    "Fine Dining Restaurants",
+    "Street Food",
+
+    "Signup",
+
+    "About",
+    "The mobile application is a user-friendly platform designed for
+    Pathanamthitta, offering interactive maps, essential service directories,
+    and seamless booking for transportation and hotels. It includes
+    offline map access and a streamlined interface, ensuring convenience for
+    users in navigating points of interest and managing travel needsefficiently",
+
+    "Hello, <name>!",
+    "Home",
+    "Profile",
+    "Hotel booking",
+    "Taxi booking",
+    "Map",
+    "History",
+    "Trip Schedule",
+    "Logout",
+
+    "Edit Profile",
+    "Update",
+
+    "Hotel Type",
+    "Check-in date",
+    "Select",
+    "Check-out date",
+    "Number of People",
+    "Save booking",
+    "Fare Rate",
+
+    "Starting Point",
+    "Destination Point",
+    "Preferred transport",
+    "Date: Select Booking Date",
+    "Pick Date",
+    "For car taxis, the charge is between the range of 500 to 1000 within
+    Pathanamthitta. For bus transport, the charge is between the range
+    from 30 to 200.",
+
+    "Aromas Cafe",
+    "Popular for Coffee and snacks.",
+    "Close",
+    "Chuttippara Hill Station",
+    "A hill station with breathtaking views",
+    "Coffee Cottage",
+    "Perfect spot for a coffee break in Pathanamthitta",
+
+    "Booking ID",
+    "Start Point",
+    "Destination",
+    "Transport",
+    "Date",
+    "Charge",
+    "POI",
+    "Check-in",
+    "Check-out",
+    "People",
+    "Fare",
+
+    "Booking details for gautam",
+    "No recent taxi bookings available",
+    "No recent hotel bookings available",
+    "No POI details found"
+}

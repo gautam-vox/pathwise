@@ -1,0 +1,8 @@
+# This is where our translation files are located at
+arb-dir: lib/l10n
+
+# Sets the English template
+template-arb-file: app_en.arb  
+
+# Output file where the generate command will generate localizations
+output-localization-file: app_localizations.dart  

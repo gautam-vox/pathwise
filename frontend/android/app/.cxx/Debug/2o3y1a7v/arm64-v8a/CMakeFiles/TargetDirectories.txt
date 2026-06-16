@@ -1,0 +1,2 @@
+D:/Coding/Pathwise/self_dev/frontend/android/app/.cxx/Debug/2o3y1a7v/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/Coding/Pathwise/self_dev/frontend/android/app/.cxx/Debug/2o3y1a7v/arm64-v8a/CMakeFiles/rebuild_cache.dir
