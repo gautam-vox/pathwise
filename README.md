@@ -1,6 +1,11 @@
 # pathwise
 A city guide and navigation app for Android, based on Flutter. View recommended local points of interests (POIs) based on your preferences and make bookings for taxi and hotels all from your Android phone.
 
+## FEATURES
+- Maps Navigation.
+- Integrated Hotel & Taxi Booking.
+- Local POIs (Points of Interest) Recommendation.
+
 <p float="left">
   <img src="screenshots/Home Page.jpg" align="middle" alt="Home Page" width="32%" />
   <img src="screenshots/Login Page.jpg" align="middle" alt="Login Page" width="32%" />
@@ -12,11 +17,6 @@ A city guide and navigation app for Android, based on Flutter. View recommended 
   <img src="screenshots/Profile Page.jpg" align="middle" alt="Login Page" width="32%" />
   <img src="screenshots/Map Page.jpg" align="middle" alt="Login Page" width="32%" /> <br>
 </p>
-
-## FEATURES
-- Maps Navigation.
-- Integrated Hotel & Taxi Booking.
-- Local POIs (Points of Interest) Recommendation.
 
 ## REQUIREMENTS
 ### Dependencies
