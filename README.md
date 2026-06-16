@@ -39,10 +39,13 @@ A city guide and navigation app for Android, based on Flutter. View recommended 
 - Open the following file in your editor:
     _"...frontend/lib/globals.dart"_
 - Save your IP Address into the ipAddress global variable, within quotes.
+
     `ipAddress = 'YOUR_IP_ADDRESS'`
 - In a seperate terminal, navigate to the _backend_ directory and start the backend server:
+
     `python app.py`
 - In the first terminal, within the _frontend_ directory, build and run the app:
+
     `flutter run`
 
 ## LICENSE
