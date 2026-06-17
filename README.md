@@ -39,9 +39,10 @@ python -m pip install flask
 ```
 git clone https://github.com/gautam-vox/pathwise
 ```
-- In your code editor, navigate to the location where you cloned the repository.
-- Open a terminal while inside the _"frontend"_ directory, and check for dependencies:
+- Open a terminal and navigate to the location where you cloned this repository.
+- While inside the _"frontend"_ directory, check for flutter dependencies:
 ```
+cd frontend
 flutter pub get
 ```
 > [!WARNING]
@@ -53,16 +54,17 @@ flutter pub get
 ```
 ipconfig
 ```
-- Open the globals file in your editor, find it at ***"...frontend/lib/globals.dart"***.
-- Save your IP Address into the ipAddress global variable, within quotes.
+- Edit the globals file located at ***"...frontend/lib/globals.dart"***.
+- Save your IP Address into the `ipAddress` global variable, within quotes (" ").
 ```
-ipAddress = 'YOUR_IP_ADDRESS'
+ipAddress = "YOUR_IP_ADDRESS"
 ```
-- In a seperate terminal, navigate to the _"backend"_ directory and start the backend server:
+- In a seperate terminal, enter into the _"backend"_ directory and start the backend server:
 ```
+cd backend
 python app.py
 ```
-- In the first terminal, within the _"frontend"_ directory, build and run the app:
+- In the first terminal, while within the _"frontend"_ directory, build and run the app:
 ```
 flutter run
 ```
