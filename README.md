@@ -40,12 +40,12 @@ python -m pip install flask
 git clone https://github.com/gautam-vox/pathwise
 ```
 - In your code editor, navigate to the location where you cloned the repository.
-- In one terminal, navigate to the _"frontend"_ directory and check for dependencies:
+- Open a terminal while inside the _"frontend"_ directory, and check for dependencies:
 ```
 flutter pub get
 ```
 > [!WARNING]
-> Don't update any packages above required versions, that would break the dependencies.
+> Don't update any packages above their required versions, as that may break some dependencies.
 
 > [!NOTE]
 > Being a local application, the current IP Address must be provided manually to the script (see below). This will be changed in the near future.
