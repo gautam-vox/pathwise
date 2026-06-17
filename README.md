@@ -68,4 +68,4 @@ flutter run
 ```
 
 ## LICENSE
-This repo and its contents are provided under the [GNU General Public License v2.0](https://github.com/gautam-vox/pathwise/blob/main/LICENSE)
+This repository and its contents are provided under the [GNU General Public License v2.0](https://github.com/gautam-vox/pathwise/blob/main/LICENSE)
